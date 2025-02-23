@@ -26,4 +26,5 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Trenton Fender
+Foxel4Scool
